@@ -1,5 +1,4 @@
 ![logo](https://github.com/Abhi956967/Abhi956967/blob/main/Abhishek%20profile%20baner.png)
-https://github.com/Abhi956967/Abhi956967/blob/main/Abhishek%20profile%20baner.png
 # Hi 👋, I'm Abhishek Maurya
 
 ### Data Science & GenAI Enthusiast | ML Engineer Aspirant
