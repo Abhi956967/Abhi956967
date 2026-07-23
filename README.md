@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhi956967&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 Currently working on: **phishing-website-detection** — https://github.com/Abhi956967/phishing-website-detection  
+- 🔭 Currently working on: **phishing-website-detection** — https://github.com/Abhi956967/IntelliCore_Intelligent-RAG-Based-AI-Assistant
 - 🌱 Learning: Machine Learning, NLP, RAG-based applications, and MLOps pipelines  
 - 👯 Looking to collaborate on: ML, NLP, RAG applications, and MLOps projects  
 - 🤝 Seeking help with: Scaling ML APIs, Cloud deployment (GCP), and advanced GenAI pipelines  
